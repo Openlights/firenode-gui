@@ -1,0 +1,16 @@
+{
+    "listenAll": false,
+    "port": 3021,
+    "outputs": [
+        {
+            "port": "",
+            "first-strand": 0,
+            "last-strand": 7
+        },
+	{
+            "port": "",
+            "first-strand": 8,
+            "last-strand": 15
+        }
+    ]
+}
